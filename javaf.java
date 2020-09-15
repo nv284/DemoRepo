@@ -3,5 +3,6 @@ class javaf
 {
  System.out.print("Hello git");
 System.out.print("learning git");
+ System.out.print("push from local to remote");
 }
 }
